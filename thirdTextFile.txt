@@ -1,3 +1,7 @@
 #trying to change feature branch and merge to master
 
+
+
+#we are trying to create a merge conflict
+
 in feature branch adding new line
